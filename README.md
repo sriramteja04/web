@@ -1,0 +1,1 @@
+In my app i created a new controller in contoller folder and added a sports a folder which consists of various cshtml files in it for testing purpose I tested a power function which checks the power of a number with a base 
